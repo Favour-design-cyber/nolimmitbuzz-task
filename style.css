@@ -1,0 +1,116 @@
+/*
+Theme Name: NolinmitBuzz Theme
+Theme URI: http://example.com/nolinmitbuzz-theme/
+Author: Favour Oluwadamilare
+Author URI: https://favourdev.dcms.site/
+Description: This is a custom theme for NolinmitBuzz WordPress task,as required in the task.
+Version: 2025
+Text Domain: nolinmitbuzz
+*/
+
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  color: #333;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fbf6f6;
+}
+
+header {
+  background-color: #15154f;
+  padding: 20px;
+  margin-bottom: 20px;
+  color: #fff;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+.main-content {
+  margin-bottom: 20px;
+}
+
+footer {
+  background-color: #15154f;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+a.read-more {
+  color: #15154f;
+  text-decoration: underline;
+}
+a.read-more:hover {
+  color: #ff5733;
+}
+p {
+  margin-bottom: 15px;
+  justify-content: center;
+}
+.post-thumbnail {
+    margin: 20px 0;
+}
+
+.post-thumbnail img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.entry-header {
+    margin-bottom: 20px;
+}
+
+.entry-title {
+    font-size: 2em;
+    color: #fff;
+    margin-bottom: 10px;
+}
+
+.entry-meta {
+    color: #666;
+    font-size: 0.9em;
+}
+
+.entry-content {
+    line-height: 1.8;
+    margin: 20px 0;
+}
+
+.author-info {
+  background: #f5f5f5;
+  padding: 20px;
+  border-radius: 8px;
+  margin-top: 40px;
+  display: flex
+;
+  align-items: center;
+  gap: 20px;
+  justify-content: center;
+}
+
+.author-info img {
+    border-radius: 50%;
+   
+}
+
+.author-info h3 {
+    color: #333;
+    
+}
+
+.author-info p {
+    color: #666;
+}
+
+/* CSS end... favour */
